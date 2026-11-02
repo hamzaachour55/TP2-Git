@@ -1,0 +1,20 @@
+# Fichiers compiles en C
+*.o
+*.exe
+programme
+
+# Fichiers temporaires et journaux
+*.tmp
+*.log
+
+# Parametres locaux et secrets
+.env
+config.local
+
+# Dossiers d'outils et editeurs
+.vscode/
+.idea/
+
+# Systeme d'exploitation
+.DS_Store
+Thumbs.db
